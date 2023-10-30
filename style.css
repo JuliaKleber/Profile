@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans&display=swap');
+
+body {
+  font-family: 'Playpen Sans', cursive;
+  background-color:antiquewhite;
+}
+
+h1, h2, h3, h4 {
+  color: green;
+}
+
+i {
+  font-size: 25px;
+  padding: 0px 10px;
+}
+
+ul {
+  padding: 0px;
+}
+
+li {
+  display: inline-block;
+  list-style: none;
+}
+
+#profile-picture {
+  border-radius: 5px;
+}
+
+#codewars-image {
+  width: 20px;
+}
+
+.card-white {
+  background-color: white;
+  text-align: center;
+  padding: 5px 20px 10px 20px;
+  width: 280px;
+  margin: 25px auto;
+  border-radius: 5px;
+  border: 1px solid #EAEAEA;
+  box-shadow: 0 0 16px rgba(0,0,0,0.1);
+}
+
+@media (min-width: 540px) {
+  .card-white {
+    width: 460px;
+    padding: 5px 20px 15px 20px;
+  }
+}
+
+@media (min-width: 720px) {
+  .card-white {
+    width: 620px;
+    padding: 5px 30px 15px 30px;
+  }
+}
+
+@media (min-width: 960px) {
+  .card-white {
+    width: 800px;
+    padding: 20px 50px 30px 50px;
+  }
+}
