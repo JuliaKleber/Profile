@@ -13,4 +13,4 @@ https://github.com/GoldieCrystal/Profile/assets/142741980/46aff831-9de8-48ff-972
 
 ## Author
 
-* Julia Kleber (https://github.com/GoldieCrystal)
+Julia Kleber (https://github.com/GoldieCrystal)
