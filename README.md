@@ -13,4 +13,4 @@ This project is a simple profile page.
 
 ## Author
 
-[JuliaKleber](https://github.com/JuliaKleber)
+[Julia Kleber](https://github.com/JuliaKleber)
