@@ -13,4 +13,4 @@ This project is a simple profile page.
 
 ## Author
 
-[GoldieCrystal](https://github.com/GoldieCrystal)
+[JuliaKleber](https://github.com/JuliaKleber)
